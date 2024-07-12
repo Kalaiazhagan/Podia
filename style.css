@@ -1,0 +1,633 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header{
+    background-color: whitesmoke; 
+}
+
+.main,.main1{
+    text-align: center;
+}
+
+h3{
+    color: rgb(66, 66, 210);
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 35px;
+    left: 4%;
+}
+
+
+li{
+    display: inline;
+    margin-left: 3%;
+    position: relative;
+    left: 12%;
+    font-style: italic;
+    
+}
+
+.header a{
+    position: relative;
+    bottom: 20px;
+    left: 76%;
+    text-decoration: none;
+    font-size: large;
+}
+
+.header button{
+    position: relative;
+    bottom: 45px;
+    left: 83%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 30px;
+    font-size: 20px;
+    font-style: italic;
+    width: 10vw;
+    height: 5vh;
+}
+
+.header p{
+    padding-top: 30px;
+    font-size: x-large;
+    
+ 
+}
+ 
+.A,small{
+    padding-top: 30px;
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+    opacity: 0.8;
+    
+}
+
+.A,button{
+    position: relative;
+    text-align: center;
+    right: px;
+    top: px;
+}
+
+.main button{
+    background-color: rgb(109, 34, 214);
+    color: whitesmoke;
+    position: relative;
+    bottom: -120px;
+    position: relative;
+   
+    font-size: x-large;
+    font-style: italic;
+    border-radius: 70px;
+    width: 22vw;
+    height: 8vh;
+
+}
+
+.A,img{
+    padding-top: 20px;
+}
+
+.B p{
+    position: relative;
+    top: 40px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.B small{
+    top: 70px;
+    font-size: 20px;
+    opacity: 0.8;
+}
+
+.main2 .C{
+    position: relative;
+    top: 150px;
+    bottom: 20px;
+    left: 70px;
+}
+
+.C h5{
+    position: relative;
+    top: 40px;
+    font-size: 29px;
+    text-align: start;
+}
+
+.C p{
+    font-size: 19px;
+    text-align: start;
+    opacity: 0.8;
+    position: relative;
+    top: 20px;
+}
+
+.C small{
+    font-size: smaller;
+    color: burlywood;
+    position: relative;
+    top: 30px;
+}
+
+.C h6{
+    font-size: 20px;
+    margin: 30px;
+   
+    
+}
+
+.C img{
+    position: absolute;
+    left: 48%;
+    bottom: -20%;
+    width: 40vw;
+    height: 70vh;
+}
+
+.C button{
+    border-radius: 30px;
+    left: 3%;
+    width: 10vw;
+    height: 7vh;
+    font-size: large;
+
+}
+
+.C,.b1{
+    position: absolute;
+    left: 40%;
+    top: 42%;
+}
+
+.C,.b2{
+    position: absolute;
+    left: 40%;
+    top: 42%;
+}
+
+.C,.b3{
+    position: absolute;
+    left: 40%;
+    top: 42%;
+}
+
+.main3 .D{
+    position: relative;
+    top: 350px;
+    bottom: 20px;
+    left: 60px;
+}
+
+.D small{
+    font-size: smaller;
+    color: burlywood;
+}
+
+.D h5{
+    position: relative;
+    top: 40px;
+    font-size: 29px;
+    text-align: start;
+}
+
+.D img{
+    position: absolute;
+    left: 49%;
+    top: 1%;
+    width: 40vw;
+    height: 70vh;
+}
+
+.D p{
+    font-size: 19px;
+    text-align: start;
+    opacity: 0.8;
+    position: relative;
+    top: 30px;
+}
+
+.D h6{
+    font-size: 20px;
+    margin: 30px;
+}
+
+.D button{
+    border-radius: 30px;
+    left: 3%;
+    width: 10vw;
+    height: 7vh;
+    font-size: large;
+
+}
+
+
+.D,.b1{
+    position: absolute;
+    left: 45%;
+    top: 55%;
+}
+
+.D,.b2{
+    position: absolute;
+    left: 45%;
+    top: 67%;
+}
+
+.D,.b3{
+    position: absolute;
+    left: 45%;
+    top: 78%;
+}
+
+
+.main4 .E{
+    position: relative;
+    top: 500px;
+    bottom: 20px;
+    left: 60px;
+}
+
+.E small{
+    font-size: smaller;
+    color: burlywood;
+}
+
+
+.E h5{
+    position: relative;
+    top: 40px;
+    font-size: 29px;
+    text-align: start;
+}
+
+.E p{
+    font-size: 19px;
+    text-align: start;
+    opacity: 0.8;
+    position: relative;
+    top: 30px;
+}
+
+
+.E h6{
+    font-size: 20px;
+    margin: 30px;
+}
+
+.E img{
+    position: absolute;
+    left: 49%;
+    top: 1%;
+    width: 40vw;
+    height: 70vh;
+}
+
+.E button{
+    border-radius: 30px;
+    left: 3%;
+    width: 10vw;
+    height: 7vh;
+    font-size: large;
+
+}
+
+.E,.b1{
+    position: absolute;
+    left: 30%;
+    top: 23%;
+}
+
+.E,.b2{
+    position: absolute;
+    left: 40%;
+    top: 55%;
+}
+
+.E,.b3{
+    position: absolute;
+    left: 40%;
+    top: 4%;
+}
+
+.E,.b4{
+    position: absolute;
+    left: 40%;
+    top: 59%;
+}
+
+
+.main5 .F{
+    position: relative;
+    top: 600px;
+    bottom: 20px;
+    left: 60px;
+}
+
+.F small{
+    font-size: smaller;
+    color: burlywood;
+}
+
+.F h5{
+    position: relative;
+    top: 40px;
+    font-size: 29px;
+    text-align: start;
+}
+
+.F p{
+    font-size: 19px;
+    text-align: start;
+    opacity: 0.8;
+    position: relative;
+    top: 30px;
+}
+
+
+.F h6{
+    font-size: 20px;
+    margin: 30px;
+}
+
+.F img{
+    position: absolute;
+    left: 49%;
+    top: 1%;
+    width: 40vw;
+    height: 70vh;
+}
+
+.F button{
+    border-radius: 30px;
+    left: 3%;
+    width: 10vw;
+    height: 7vh;
+    font-size: large;
+
+}
+
+.F,.b1{
+    position: absolute;
+    left: 45%;
+    top: 53%;
+}
+
+.F,.b2{
+    position: absolute;
+    left: 45%;
+    top: 65%;
+}
+
+.F,.b3{
+    position: absolute;
+    left: 45%;
+    top: 78%;
+}
+
+.main6 .G{
+    border: 0px solid;
+    border-radius: 30px;
+    background-color: rgba(255, 247, 247, 0.85);
+    width: 90vw;
+    height: 62vh;
+    position: relative;
+    top: 800px;
+    bottom: 20px;
+    left: 50px;
+}
+
+.G img{
+    width: 25vw;
+    height: 50vh;
+    margin: 28px;
+}
+
+.G small{
+    font-size: smaller;
+    color: burlywood;
+    position: absolute;
+    top: 20px;
+    left: 40%;
+}
+
+
+.G h5{
+    position: absolute;
+    top: 78px;
+    font-size: 29px;
+    left: 40%;
+}
+
+.G p{
+    font-size: 19px;
+    position: absolute;
+    top: 100px;
+    left: 40%;
+    opacity: 0.8;
+}
+
+.G h6{
+    font-size: small;
+    position: absolute;
+    top: 200px;
+    left: 40%;
+}
+
+.G button{
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 30px;
+    left: 7%;
+    top: -38%;
+    width: 20vw;
+    height: 7vh;
+    font-size: 20px;
+
+}
+
+.H h2{
+    position: relative;
+    top: 900px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.H p{
+    position: relative;
+    top: 890px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.main8{
+    position: relative;
+    top: 1000px;
+    margin-left: 6%;
+    text-align: center;
+}
+
+.k1{
+    background-color: whitesmoke;
+    width: 25vw;
+    height: 60vh;
+    position: relative;
+    
+
+}
+
+.k1 img{
+   
+    padding-top: 40px;
+    width: 13vw;
+    height: 23vh;
+}
+
+.k2{
+    background-color: whitesmoke;
+    width: 25vw;
+    height: 60vh;
+    position: relative;
+    left: 35%;
+    bottom: 60vh;
+}
+
+.k2 img{
+   
+    padding-top: 40px;
+    width: 12vw;
+    height: 23vh;
+}
+
+.k3{
+    background-color: whitesmoke;
+    width: 25vw;
+    height: 60vh;
+    position: relative;
+    left: 70%;
+    bottom: 120vh;
+}
+
+.k3 img{
+    
+    padding-top: 40px;
+    width: 12vw;
+    height: 23vh;
+}
+
+.box h6{
+    position: relative;
+    top: 80px;
+    font-size: large;
+}
+
+.main9{
+    background-color: rgb(66, 15, 66);
+    color: white;
+    text-align: center;
+    height: 40vh;
+    width: 80vw;
+    position: relative;
+    left: 10%;
+    top: 150px;
+}
+
+.S h2{
+    padding: 30px;
+    font-size: xx-large;
+}
+
+.S small{
+    text-align: center;
+}
+
+.S button{
+    background-color: rgb(122, 122, 216);
+    color: whitesmoke;
+    position: relative;
+    top: 90px;
+    right: 40%;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 30px;
+    width: 12vw;
+    height: 8vh;
+}
+
+.Z{
+    background-color: wheat;
+    width: 100vw;
+    height: 50vh;
+    position: relative;
+    top: 300px;
+    
+
+}
+
+footer,.row{
+    background-color: rgb(250, 248, 247);
+    width: 100vw;
+    height: 60vh;
+    position: relative;
+    top: 300px;
+    font-style: normal;
+ 
+}
+
+.row p,a{
+    position: absolute;
+    left: 70px;
+    padding-top: 55px;
+    margin: 20px;
+}
+
+
+.row,p{
+    text-align: start;
+    font-size: 28px;    
+}
+
+.row a{
+    position: relative;
+    left: 10px; 
+    top: 60px;
+    font-size: 16px;
+    text-decoration: underline;
+    color: black;
+    opacity: 0.6;
+    font-style: normal;
+    
+}
+
+.nav1,p{
+    padding-top: 17px;
+}
+
+.nav2,p{
+    padding-top: 17px;
+}
+
+.nav3,p{
+    padding-top: 17px;
+}
+.nav4,p{
+    padding-top: 17px;
+}
+.nav5,p{
+    padding-top: 17px;
+}
+.nav6,p{
+    padding-top: 17px;
+}
+.nav7,p{
+    padding-top: 17px;
+}
